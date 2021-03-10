@@ -55,13 +55,5 @@ Run 'Uninstall' on the EditPlus Start Menu folder or open 'Add/Remove
 Programs' in Control Panel and double-click 'EditPlus 3' in the list
 box.
 
-Feedback
---------
-For feedback, questions and any comments:
-- E-mail    support@editplus.com
-- Homepage  http://www.editplus.com/
-
-
-===== README IN HANGUL(KOREAN) =====
 
 
